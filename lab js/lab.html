@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Javascript</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <script src="script.js"></script>
+</head>
+<body>
+    <div>
+        <select multiple id="select-box1" ondblclick="moveElement(this, 'select-box2')">
+            <option>one</option>
+            <option>two</option>
+            <option>three</option>
+            <option>four</option>
+        </select>
+        <select multiple id="select-box2" ondblclick="moveElement(this, 'select-box1')">
+            <option>five</option>
+            <option>six</option>
+            <option>seven</option>
+            <option>eight</option>
+        </select>
+    </div>
+</body>
+</html>

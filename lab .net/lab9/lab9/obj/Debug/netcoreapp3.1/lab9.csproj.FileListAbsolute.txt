@@ -1,0 +1,5 @@
+/Users/dianadragos/Desktop/programare web/lab9/lab9/lab9/obj/Debug/netcoreapp3.1/lab9.csprojAssemblyReference.cache
+/Users/dianadragos/Desktop/programare web/lab9/lab9/lab9/obj/Debug/netcoreapp3.1/lab9.AssemblyInfoInputs.cache
+/Users/dianadragos/Desktop/programare web/lab9/lab9/lab9/obj/Debug/netcoreapp3.1/lab9.AssemblyInfo.cs
+/Users/dianadragos/Desktop/programare web/lab9/lab9/lab9/obj/Debug/netcoreapp3.1/lab9.csproj.CoreCompileInputs.cache
+/Users/dianadragos/Desktop/programare web/lab9/lab9/lab9/obj/Debug/netcoreapp3.1/lab9.MvcApplicationPartsAssemblyInfo.cache
